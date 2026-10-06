@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+
+# Agentic Browsing & AI Bots Explicit Allow
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: anthropic-ai
+Allow: /
+User-agent: OmgiliBot
+Allow: /
+User-agent: FacebookBot
+Allow: /
+
+Sitemap: https://www.e-voxx.com/sitemap.xml

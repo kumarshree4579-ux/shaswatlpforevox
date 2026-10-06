@@ -1,0 +1,27 @@
+# E-Vox By Ekant
+
+> Premium Cloud PBX & VoIP Solutions tailored for modern teams, offering reliable calling, seamless collaboration, and effortless scalability.
+
+## Overview
+E-Vox By Ekant provides a modern cloud phone system designed to upgrade business communications without the complexity of traditional hardware.
+
+## Features
+- **Cloud Business Phone System**: Work from anywhere without complicated hardware or maintenance.
+- **Crystal-Clear Calling**: High-definition voice quality built for modern enterprises.
+- **Smart Call Routing**: Intelligent call routing, IVR menus, extensions, and forwarding.
+- **Business SMS**: Convenient two-way business text messaging.
+- **Call Analytics**: Visual call reports, activity tracking, and performance insights.
+- **Work From Anywhere**: Softphone apps available for web browsers, desktop apps, and mobile applications.
+
+## Key Benefits
+- **99.9% Uptime Guarantee**
+- **24/7 Expert Support**
+- **Seamless Scalability**: Add users and numbers instantly.
+- **Number Portability**: Keep existing local, toll-free, or international numbers.
+- **Hardware Agnostic**: Use softphones with headsets or compatible standard SIP/IP phones.
+
+## Contact & Support
+- **India Support**: +91-9044006604
+- **US Support**: +1-951-900-6339
+- **Website**: https://www.e-voxx.com/
+- **Parent Organization**: Ekant Infotech (http://ekantinfotech.com)

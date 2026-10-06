@@ -1,0 +1,46 @@
+@import "tailwindcss";
+@source "../../index.html";
+
+@theme {
+  --color-brand-primary: #0F172A;
+  --color-brand-dark: #020617;
+  --color-brand-bg: #F8FAFC;
+  --color-brand-accent: #2563EB;
+  --color-brand-white: #FFFFFF;
+  --color-brand-muted: #475569;
+
+  --font-heading: "Plus Jakarta Sans", sans-serif;
+  --font-body: "Inter", sans-serif;
+
+  --shadow-premium: 0 4px 6px -1px rgba(15, 23, 42, 0.05), 0 2px 4px -1px rgba(15, 23, 42, 0.03);
+  --shadow-premium-hover: 0 10px 15px -3px rgba(15, 23, 42, 0.08), 0 4px 6px -2px rgba(15, 23, 42, 0.04);
+}
+
+@layer base {
+  body {
+      font-family: 'Inter', sans-serif;
+      background-color: #F8FAFC;
+      color: #64748B;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      color: #0F172A;
+  }
+}
+
+@layer components {
+  .btn {
+      font-family: 'Inter', sans-serif;
+      font-weight: 600;
+  }
+
+  .mockup-gradient {
+      background: linear-gradient(135deg, #F8FAFC 0%, #E2E8F0 100%);
+  }
+
+  .glass-panel {
+      background: rgba(255, 255, 255, 0.8);
+      backdrop-filter: blur(12px);
+  }
+}
